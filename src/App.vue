@@ -132,6 +132,8 @@ const handleReset = () => {
   font-family: Cairo, Tajawal, sans-serif;
   position: relative;
   overflow: hidden;
+
+
 }
 
 .blur-bg-1 {
